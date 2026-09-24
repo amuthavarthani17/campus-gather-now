@@ -15,6 +15,13 @@
       "when": 1790239995781,
       "tag": "0001_admin_bootstrap",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1790240119458,
+      "tag": "0002_registrations_profile_fk",
+      "breakpoints": true
     }
   ]
 }
